@@ -11,7 +11,7 @@
 
 .ex2 {
     /* transition: background-color,blabla 5s,10s;    syntaxe utilisant "all" sur 10s  */
-     transition: background-color 5s, transform 2s; /* syntaxe correct */
+     transition: background-color 5s, transform 2s; /* syntaxe correct   */
 }
 
 .ex2:hover{
