@@ -13,5 +13,5 @@ J'ai compri ce qui n'allait pas. En gros ma syntaxe fontionnais et pas la "votre
 et sur la votre il faut utiliser "transform" et non "scale".. Ca me rendais très perplexe de voir que ma syntaxe (dont je n'arrive plus à retrouver la source) fonctionnais, et pas celle de w3school (la votre).
 
 
-ex3 : Je ne comprend toujours pas pourquoi "height" n'est pas pris en compte par la transition... 
+ex3 : Je ne comprend toujours pas pourquoi "height" n'est pas pris en compte par la transition...   
 
